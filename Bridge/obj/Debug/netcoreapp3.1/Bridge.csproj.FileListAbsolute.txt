@@ -1,0 +1,13 @@
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\casto\source\repos\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\casto\source\repos\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
